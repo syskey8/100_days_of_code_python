@@ -5,7 +5,7 @@ Welcome to my **100 Days of Python** journey! 🚀 This repository contains my d
 ## How to Use This Repository
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/100-days-of-python.git
+   git clone https://github.com/syskey8/100_days_of_code_python.git
    ```
 2. Navigate to the day you want to explore:
    ```bash
