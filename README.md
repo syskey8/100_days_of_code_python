@@ -14,6 +14,6 @@ Welcome to my **100 Days of Python** journey! 🚀 This repository contains my d
 
 ### Connect with Me
 Feel free to reach out if you have any questions or suggestions:
-- **LinkedIn**: [Your Profile](www.linkedin.com/in/tanmay-deorukhakar-85963a257)
+- **LinkedIn**: www.linkedin.com/in/tanmay-deorukhakar-85963a257
 
 Let's make coding fun and productive! 😊
