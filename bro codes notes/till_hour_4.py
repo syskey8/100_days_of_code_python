@@ -181,7 +181,7 @@ print(capitals.get("Germany", "Key not found")) # Output: Key not found (default
 if capitals.get("Russia"):
     print("That capital exists.")
 else:
-    print("That capital doesn't exist."
+    print("That capital doesn't exist.")
 
 # [03:06:56] .update() - Adds new key-value pairs or updates existing ones.
 capitals.update({"Germany": "Berlin"}) # Add Germany
